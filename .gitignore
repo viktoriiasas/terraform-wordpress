@@ -1,0 +1,14 @@
+# Terraform state
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Sensitive vars
+terraform.tfvars
+*.pem
+
+# IDE/editor stuff
+.vscode/
+.idea/
+.DS_Store
