@@ -3,6 +3,7 @@
 *.tfstate.*
 .terraform/
 .terraform.lock.hcl
+terraform.auto.tfvars
 
 # Sensitive vars
 terraform.tfvars
